@@ -1,3 +1,36 @@
 // Place all the styles related to the Chatrooms controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+/*CHAT PANEL*/
+.event-panel .panel-body{
+height: 195px;
+background-color: #363636;
+overflow-y: scroll;
+}
+.chat-panel .panel-body {
+height: 450px;
+background-color: #ccffff;
+overflow-y: scroll;
+}
+.chat-box {
+margin: 0;
+padding: 0;
+list-style: none;
+}
+.chat-box li {
+margin-bottom: 15px;
+padding-bottom: 5px;
+border-bottom: 1px dotted #808080;
+}
+.chat-box li.left .chat-body {
+margin-left: 90px;
+}
+.chat-box li .chat-body p {
+margin: 0;
+// color: #8d8888;
+color: #CCCCCC;
+}
+.chat-img>img {
+margin-left:20px;
+}
