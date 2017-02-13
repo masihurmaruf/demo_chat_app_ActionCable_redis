@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this app is to develop a Human Resource Application.
+The purpose of this app is to develop a chat application where user can chat with each other.
 
 ## Project Information
 
@@ -20,6 +20,6 @@ The following was used to create this project
 
 ## Contributors
 
-* Mashiur Rahman
+* Masihur Rahman Maruf
 
 &copy; Coding Mechanic Inc.
